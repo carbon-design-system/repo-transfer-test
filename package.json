@@ -6,6 +6,9 @@
   "repository": "https://github.com/tay1orjones/repo-transfer-test.git",
   "author": "Taylor Jones <taylor.jones826@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "test": "echo all good"
+  },
   "devDependencies": {
     "semantic-release": "^16.0.0-beta.39"
   }
