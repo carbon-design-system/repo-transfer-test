@@ -11,5 +11,8 @@
   },
   "devDependencies": {
     "semantic-release": "^16.0.0-beta.39"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
