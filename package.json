@@ -10,7 +10,7 @@
     "test": "echo all good"
   },
   "devDependencies": {
-    "semantic-release": "^16.0.0-beta.39"
+    "semantic-release": "^17.2.1"
   },
   "publishConfig": {
     "access": "public"
